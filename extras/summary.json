@@ -1,0 +1,13 @@
+[{
+    "title": "Pagina extra",
+    "file": "pagina/extra.md"
+  },
+  {
+    "title": "Pagina extra",
+    "file": "pagina/extra.md",
+    "children": [{
+      "title": "Pagina extra",
+      "file": "pagina/extra.md"
+    }]
+  }
+]
